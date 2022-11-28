@@ -35,4 +35,3 @@ function func() {
   
  const result = multiply(arg);
  console.log(result === 25);
- 
